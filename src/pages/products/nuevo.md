@@ -5,7 +5,7 @@ description: Esta es la descripción
 price: $35
 order: 0
 section: Store
-featured: false
+featured: true
 template: product
 default_thumbnail_image: images/January 27th at 4PM.jpg
 default_original_image: images/parents-blog-02.jpg
