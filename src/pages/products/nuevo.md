@@ -8,6 +8,7 @@ section: Store
 featured: false
 template: product
 default_thumbnail_image: images/January 27th at 4PM.jpg
+default_original_image: images/parents-blog-02.jpg
 ---
 ## Lorem ipsum
 
