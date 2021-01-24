@@ -7,6 +7,7 @@ order: 0
 section: Store
 featured: false
 template: product
+default_thumbnail_image: images/January 27th at 4PM.jpg
 ---
 ## Lorem ipsum
 
