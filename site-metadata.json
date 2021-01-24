@@ -4,7 +4,7 @@
     "logo_light": "images/logo-white.svg",
     "hamburger_background_image": "/images/leaf-light-grey.svg",
     "bg_image_primary": "/images/header.jpg",
-    "bg_image_secondary": "/images/leaf-light-grey.svg",
+    "bg_image_secondary": "images/nan_talk.jpg",
     "bg_image_product": "/images/leaf.svg",
     "snipcart_api_key": "",
     "footer_text": "Copyright 2021 Planty Inc. All rights reserved.",
