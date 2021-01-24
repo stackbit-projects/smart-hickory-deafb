@@ -1,7 +1,7 @@
 ---
 id: lorem-ipsum
 title: lorem-ipsum
-description: lorem-ipsum
+description: Esta es la descripción
 price: $35
 order: 0
 section: Store
